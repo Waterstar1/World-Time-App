@@ -16,6 +16,6 @@ Run the following commands in a Terminal window:
 ### Additional notes
 #
 
-Application was made following a <a href=https://www.youtube.com/watch?v=WghpP9W2vXo&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&index=22>tutorial</a> by TheNetNinja with the following changes: 
+Application was made following a <a href=https://youtu.be/WghpP9W2vXo>tutorial</a> by TheNetNinja with the following changes: 
 -Accounted for timezone offsets which were negative
 -Time is updated regularly 
