@@ -1,8 +1,8 @@
-## World Time App
+# World Time App
 
 #### A World Clock application built using flutter and retrieves data from the WorldTimeAPI. 
 
-### Installation
+## Installation
 
 Install flutter <a href=https://flutter.dev/docs/get-started/install>here</a>.
 
@@ -12,7 +12,7 @@ Then run the following commands in a terminal window:
     $ cd world_time
     $ flutter run
     
-### Additional notes
+## Additional notes
 
 #### Application was made following a <a href=https://youtu.be/WghpP9W2vXo>tutorial</a> by TheNetNinja with the following changes: 
 
