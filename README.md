@@ -1,6 +1,6 @@
 # World Time App
 
-#### A World Clock application built using flutter and retrieves data from the WorldTimeAPI. 
+A World Clock application built using flutter and retrieves data from the WorldTimeAPI. 
 
 ## Installation
 
