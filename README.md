@@ -14,7 +14,7 @@ Then run the following commands in a terminal window:
     
 ## Additional notes
 
-#### Application was made following a <a href=https://youtu.be/WghpP9W2vXo>tutorial</a> by TheNetNinja with the following changes: 
+#### Application based upon a <a href=https://youtu.be/WghpP9W2vXo>tutorial</a> by TheNetNinja with additional changes: 
 
 - Accounted for timezone offsets which were negative
 - Time is updated regularly 
